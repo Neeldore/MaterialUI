@@ -1,4 +1,19 @@
-.drawer{
-    margin-top: 64px;
-    width: 30px;
-  }
+.normal-div{
+  position: relative;
+  margin: 10px;
+}
+.appbar-class{
+  position: absolute;
+  width: 100%;
+}
+.drawer-class{
+  position: absolute;
+ margin-top: 75px;
+ margin-left: 10px;
+ margin-right: 60px;
+}
+.card-class{
+  position: absolute;
+  display: inline;
+  width: 50%;
+}
